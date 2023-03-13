@@ -1,5 +1,6 @@
 # NMR Report Tools
 Several simple tools to aid the writing of NMR reports.
+Download [here](https://github.com/liyuanhe211/NMR_Report_Tools/releases/download/1.0/NMR_Report_Tools.zip)
 
 ## Convert 13C-NMR 2-digits to 1-digit
 Copy comma-separated floating point numbers to the clipboard:
