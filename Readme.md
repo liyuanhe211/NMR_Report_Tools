@@ -13,11 +13,13 @@ Then immediately paste to get:
 53.6, 53.3, 44.5 (44.48), 44.5 (44.46), 38.6, 36.6
 ```
 
+<video src='Demo/Demo_C13_2 Digits_to_1_Digit.mp4'></video>
+
 ## NMR DEPT Report
 
 Copy a MestReNova peak table:
 
-<p align="center"><img src="images/img.png" width="70%" height="70%" align="center"></img></p>
+<p align="center"><img src="images/img.png" width="30%" height="30%" align="center"></img></p>
 
 (What's in the clipboard is):
 
