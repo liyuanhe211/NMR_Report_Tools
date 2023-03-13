@@ -1,0 +1,3 @@
+*.spec
+.idea
+Pyinstaller_Packing
