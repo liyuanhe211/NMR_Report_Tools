@@ -12,7 +12,7 @@ Then immediately paste to get:
 ```
 53.6, 53.3, 44.5 (44.48), 44.5 (44.46), 38.6, 36.6
 ```
-
+Screen recording demo:
 ##
 https://user-images.githubusercontent.com/18537705/224800191-9c15299b-ec82-41e1-810d-22398b9c08da.mp4
 ##
@@ -42,7 +42,7 @@ And the program will save the following report to clipboard:
 ```
 All peaks that labelled not compound are not shown.
 
-
+Screen recording demo:
 ##
 https://user-images.githubusercontent.com/18537705/224800527-4e098222-1963-49c8-b89c-791148072fa1.mp4
 ##
