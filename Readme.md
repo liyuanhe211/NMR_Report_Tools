@@ -4,7 +4,7 @@ Several simple tools to aid the writing of NMR reports.
 ## Convert 13C-NMR 2-digits to 1-digit
 Copy comma-separated floating point numbers to the clipboard:
 
-For example. copy:
+For example, copy:
 ```
 53.57, 53.30, 44.48, 44.46, 38.57, 36.62
 ```
@@ -13,11 +13,9 @@ Then immediately paste to get:
 53.6, 53.3, 44.5 (44.48), 44.5 (44.46), 38.6, 36.6
 ```
 
-
+##
 https://user-images.githubusercontent.com/18537705/224800191-9c15299b-ec82-41e1-810d-22398b9c08da.mp4
-
-
-<video src='Demo/Demo_C13_2 Digits_to_1_Digit.mp4'></video>
+##
 
 ## NMR DEPT Report
 
@@ -42,7 +40,13 @@ And the program will save the following report to clipboard:
 ```
 51.48 (+), 44.47 (+), 38.29 (-), 36.63 (+), 28.49 (+), 25.37 (-), 12.84 (+)
 ```
-All peaks that labelled not compound is not shown.
+All peaks that labelled not compound are not shown.
+
+
+##
+https://user-images.githubusercontent.com/18537705/224800527-4e098222-1963-49c8-b89c-791148072fa1.mp4
+##
+
 
 ## Count hydrogen from NMR report:
 
