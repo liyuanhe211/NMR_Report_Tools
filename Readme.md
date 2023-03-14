@@ -1,5 +1,5 @@
 # NMR Report Tools
-Several simple tools to aid the writing of NMR reports.
+Several simple tools to aid the reporting of NMR data.
 
 [Download here](https://github.com/liyuanhe211/NMR_Report_Tools/releases/download/1.0/NMR_Report_Tools.zip).
 
