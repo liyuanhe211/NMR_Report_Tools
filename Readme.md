@@ -19,7 +19,7 @@ Screen recording demo:
 https://user-images.githubusercontent.com/18537705/224800191-9c15299b-ec82-41e1-810d-22398b9c08da.mp4
 ##
 
-## NMR DEPT Report
+## DEPT Report
 
 Copy a MestReNova peak table:
 
