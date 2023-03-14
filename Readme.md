@@ -3,7 +3,7 @@ Several simple tools to aid the reporting of NMR data.
 
 [Download here](https://github.com/liyuanhe211/NMR_Report_Tools/releases/download/1.0/NMR_Report_Tools.zip).
 
-## Convert 13C-NMR 2-digits to 1-digit
+## Convert 2-digits <sup>13</sup>C-NMR to 1-digit
 Copy comma-separated floating point numbers to the clipboard:
 
 For example, copy:
